@@ -1,0 +1,13 @@
+C:\Users\mehedi\source\repos\TailorX\TailorX\bin\Debug\TailorX.exe.config
+C:\Users\mehedi\source\repos\TailorX\TailorX\bin\Debug\TailorX.exe
+C:\Users\mehedi\source\repos\TailorX\TailorX\bin\Debug\TailorX.pdb
+C:\Users\mehedi\source\repos\TailorX\TailorX\obj\Debug\TailorX.Form1.resources
+C:\Users\mehedi\source\repos\TailorX\TailorX\obj\Debug\TailorX.Properties.Resources.resources
+C:\Users\mehedi\source\repos\TailorX\TailorX\obj\Debug\TailorX.csproj.GenerateResource.cache
+C:\Users\mehedi\source\repos\TailorX\TailorX\obj\Debug\TailorX.exe
+C:\Users\mehedi\source\repos\TailorX\TailorX\obj\Debug\TailorX.pdb
+C:\Users\mehedi\source\repos\TailorX\TailorX\obj\Debug\TailorX.checkOrders.resources
+C:\Users\mehedi\source\repos\TailorX\TailorX\bin\Debug\Dapper.dll
+C:\Users\mehedi\source\repos\TailorX\TailorX\bin\Debug\Dapper.xml
+C:\Users\mehedi\source\repos\TailorX\TailorX\obj\Debug\TailorX.csproj.CopyComplete
+C:\Users\mehedi\source\repos\TailorX\TailorX\obj\Debug\TailorX.csprojAssemblyReference.cache
